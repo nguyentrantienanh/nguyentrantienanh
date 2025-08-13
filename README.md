@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Trần Tiến Anh</h1>
 <h3 align="center">🚀 A passionate frontend developer from VietNam</h3>
-
+<!-- Banner GIF hoặc hình minh họa -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
+</p>
 ---
 
 ### 🌐 Connect with me:
