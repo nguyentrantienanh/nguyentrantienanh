@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Trần Tiến Anh</h1>
-<h3 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    🚀 A passionate frontend developer from VietNam
-  </marquee>
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+A+passionate+frontend+developer+from+VietNam" alt="Typing SVG" />
+</div>
 
 
 <p align="center">
