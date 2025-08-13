@@ -46,8 +46,9 @@
 </p>
  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nguyentrantienanh&theme=tokyonight" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=nguyentrantienanh&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentrantienanh&layout=compact&theme=tokyonight" alt="Top Languages"/>
