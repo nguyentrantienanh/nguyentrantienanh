@@ -1,4 +1,4 @@
-<img width="79" height="42" alt="image" src="https://github.com/user-attachments/assets/4aa7e193-0f1a-463e-9cdc-3c9bd2e4968f" /><h1 align="center">Hi 👋, I'm Nguyễn Trần Tiến Anh</h1>
+ <h1 align="center">Hi 👋, I'm Nguyễn Trần Tiến Anh</h1>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+A+passionate+frontend+developer+from+Vietnam" alt="Typing SVG" />
 </div>
