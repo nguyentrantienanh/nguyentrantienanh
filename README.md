@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Trần Tiến Anh</h1>
+<img width="79" height="42" alt="image" src="https://github.com/user-attachments/assets/4aa7e193-0f1a-463e-9cdc-3c9bd2e4968f" /><h1 align="center">Hi 👋, I'm Nguyễn Trần Tiến Anh</h1>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+A+passionate+frontend+developer+from+Vietnam" alt="Typing SVG" />
 </div>
@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=0b0b0b&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white&style=for-the-badge" />
 </p>
 </details>
 
@@ -54,7 +55,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/.NET%20C%23-512BD4?logo=.net&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white&style=for-the-badge" />
 </p>
 </details>
 
